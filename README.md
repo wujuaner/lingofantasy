@@ -7,7 +7,7 @@
 **See it. Hear it. Remember it.**
 
 [简体中文](README.md) · [English](README_EN.md) · [官方网站](https://www.lingofantasy.com/) · [下载](https://www.lingofantasy.com/download.html)
-
+[https://www.lingofantasy.com/assets/images/three-device-hero.png](https://www.lingofantasy.com/assets/images/three-device-hero.png)
 </div>
 
 <table><tr>
