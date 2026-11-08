@@ -6,10 +6,19 @@
 
 **See it. Hear it. Remember it.**
 
-[简体中文](README.md) · [English](README_EN.md) · [官方网站](https://www.lingofantasy.com/) · [功能介绍](https://www.lingofantasy.com/#features)
+[简体中文](README.md) · [English](README_EN.md) · [官方网站](https://www.lingofantasy.com/) · [下载](https://www.lingofantasy.com/download.html)
 
 </div>
 
+<table><tr>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/01_iphone_zh_cn.png" width="235" alt="Mobile screenshot 1" /></td>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/02_iphone_zh_cn.png" width="235" alt="Mobile screenshot 2" /></td>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/03_iphone_zh_cn.png" width="235" alt="Mobile screenshot 3" /></td>
+</tr><tr>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/04_iphone_zh_cn.png" width="235" alt="Mobile screenshot 4" /></td>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/05_iphone_zh_cn.png" width="235" alt="Mobile screenshot 5" /></td>
+<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/06_iphone_zh_cn.png" width="235" alt="Mobile screenshot 6" /></td>
+</tr></table>
 ---
 
 ## 让语言学习更贴近自己
@@ -71,20 +80,6 @@ LingoFantasy 是一款以个性化词汇学习为核心的语言学习应用，�
 将学习内容导出为 PDF 等适合打印或分享的资料，让复习不局限于应用界面。
 
 <p align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/ipad/08_ipad_zh_cn.png" alt="LingoFantasy feature 8" width="760" /></p>
-
-## 手机端体验
-
-以下展示部分手机端产品界面。
-
-<table><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/01_iphone_zh_cn.png" width="235" alt="Mobile screenshot 1" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/02_iphone_zh_cn.png" width="235" alt="Mobile screenshot 2" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/03_iphone_zh_cn.png" width="235" alt="Mobile screenshot 3" /></td>
-</tr><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/04_iphone_zh_cn.png" width="235" alt="Mobile screenshot 4" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/05_iphone_zh_cn.png" width="235" alt="Mobile screenshot 5" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/06_iphone_zh_cn.png" width="235" alt="Mobile screenshot 6" /></td>
-</tr></table>
 
 ## 关于本仓库
 
