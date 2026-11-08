@@ -77,15 +77,21 @@ LingoFantasy 是一款以个性化词汇学习为核心的语言学习应用，�
 
 以下展示部分手机端产品界面。
 
-<table><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/01_iphone_zh_cn.png" width="235" alt="Mobile screenshot 1" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/02_iphone_zh_cn.png" width="235" alt="Mobile screenshot 2" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/03_iphone_zh_cn.png" width="235" alt="Mobile screenshot 3" /></td>
-</tr><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/04_iphone_zh_cn.png" width="235" alt="Mobile screenshot 4" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/05_iphone_zh_cn.png" width="235" alt="Mobile screenshot 5" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/06_iphone_zh_cn.png" width="235" alt="Mobile screenshot 6" /></td>
-</tr></table>
+<p align="center">
+  <img src="images/mobile/01_iphone_zh_cn.png" width="210" alt="界面 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/02_iphone_zh_cn.png" width="210" alt="界面 2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/03_iphone_zh_cn.png" width="210" alt="界面 3" />
+</p>
+
+<p align="center">
+  <img src="images/mobile/04_iphone_zh_cn.png" width="210" alt="界面 4" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/05_iphone_zh_cn.png" width="210" alt="界面 5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/06_iphone_zh_cn.png" width="210" alt="界面 6" />
+</p>
 
 ## 关于本仓库
 
