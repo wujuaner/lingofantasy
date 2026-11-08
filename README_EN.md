@@ -77,15 +77,17 @@ Export study materials, including PDF resources suitable for printing and offlin
 
 A selection of mobile screens from the product.
 
-<table><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/01_iphone_en.png" width="235" alt="Mobile screenshot 1" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/02_iphone_en.png" width="235" alt="Mobile screenshot 2" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/03_iphone_en.png" width="235" alt="Mobile screenshot 3" /></td>
-</tr><tr>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/04_iphone_en.png" width="235" alt="Mobile screenshot 4" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/05_iphone_en.png" width="235" alt="Mobile screenshot 5" /></td>
-<td align="center"><img src="https://github.com/wujuaner/lingofantasy/blob/main/images/mobile/06_iphone_en.png" width="235" alt="Mobile screenshot 6" /></td>
-</tr></table>
+<p align="center">
+  <img src="images/mobile/01_iphone_en.png" width="235" />
+  <img src="images/mobile/02_iphone_en.png" width="235" />
+  <img src="images/mobile/03_iphone_en.png" width="235" />
+</p>
+
+<p align="center">
+  <img src="images/mobile/04_iphone_en.png" width="235" />
+  <img src="images/mobile/05_iphone_en.png" width="235" />
+  <img src="images/mobile/06_iphone_en.png" width="235" />
+</p>
 
 ## About this repository
 
