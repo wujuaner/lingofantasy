@@ -77,17 +77,27 @@ Export study materials, including PDF resources suitable for printing and offlin
 
 A selection of mobile screens from the product.
 
+
+<h2>Mobile Experience</h2>
+
+<p>Explore selected screenshots of the LingoFantasy mobile interface.</p>
+
 <p align="center">
-  <img src="images/mobile/01_iphone_en.png" width="235" />
-  <img src="images/mobile/02_iphone_en.png" width="235" />
-  <img src="images/mobile/03_iphone_en.png" width="235" />
+  <img src="images/mobile/01_iphone_en.png" width="210" alt="LingoFantasy Mobile 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/02_iphone_en.png" width="210" alt="LingoFantasy Mobile 2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/03_iphone_en.png" width="210" alt="LingoFantasy Mobile 3" />
 </p>
 
 <p align="center">
-  <img src="images/mobile/04_iphone_en.png" width="235" />
-  <img src="images/mobile/05_iphone_en.png" width="235" />
-  <img src="images/mobile/06_iphone_en.png" width="235" />
+  <img src="images/mobile/04_iphone_en.png" width="210" alt="LingoFantasy Mobile 4" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/05_iphone_en.png" width="210" alt="LingoFantasy Mobile 5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/mobile/06_iphone_en.png" width="210" alt="LingoFantasy Mobile 6" />
 </p>
+
 
 ## About this repository
 
