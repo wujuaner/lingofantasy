@@ -77,11 +77,6 @@ Export study materials, including PDF resources suitable for printing and offlin
 
 A selection of mobile screens from the product.
 
-
-<h2>Mobile Experience</h2>
-
-<p>Explore selected screenshots of the LingoFantasy mobile interface.</p>
-
 <p align="center">
   <img src="images/mobile/01_iphone_en.png" width="210" alt="LingoFantasy Mobile 1" />
   &nbsp;&nbsp;&nbsp;&nbsp;
