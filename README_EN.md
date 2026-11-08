@@ -17,6 +17,7 @@
 Learning a word is more than recognizing its spelling. It means hearing its sound, understanding its meaning, meeting it in context, and being able to recall it when needed.
 
 LingoFantasy brings vocabulary, listening, dictation, notes, and review together in a flexible learning experience. Create your own learning materials, practice at your own pace, and make each word part of what you truly know.
+![LingoFantasy 产品展示](https://www.lingofantasy.com/assets/images/three-device-hero.png)
 
 ## 0 · Overview
 
