@@ -6,7 +6,7 @@
 
 **See it. Hear it. Remember it.**
 
-[简体中文](README.md) · [English](README_EN.md) · [Official Website](https://www.lingofantasy.com/) · [Features](https://www.lingofantasy.com/#features)
+[简体中文](README.md) · [English](README_EN.md) · [Official Website](https://www.lingofantasy.com/) · [Download](https://www.lingofantasy.com/download.html)
 
 </div>
 
